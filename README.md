@@ -9,9 +9,12 @@ conda creat --name bot python=3.9
 conda install -c anaconda pip 
 ```
 ## Turn on the virtual environment
+
 ``` activate bot ```
+
 Dependencies installed 
 
-### After installing the files, the address of the files is transferred
-``` pip install -r requirements.txt
+ After installing the files, the address of the files is transferred
+
+``` pip install -r requirements.txt ```
 
